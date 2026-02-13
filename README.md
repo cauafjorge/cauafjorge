@@ -8,10 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Fatec Bauru
-- 📜 Certificado **Full Stack Open** pela University of Helsinki — Grade 5/5
-- 🛠️ Formação técnica em **Desenvolvimento de Sistemas** pela ETEC São Paulo
-- 🌱 Sempre aprendendo e construindo coisas novas
+Desenvolvedor em formação com 3 anos de experiência prática em programação. Aos 14 anos iniciei minha jornada no desenvolvimento por iniciativa própria. Atualmente, aos 17 anos, combino formação técnica sólida com projetos reais e certificações internacionais, buscando contribuir com equipes e soluções que gerem impacto.
 
 ---
 
