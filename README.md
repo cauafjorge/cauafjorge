@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor em formação com 3 anos de experiência prática em programação. Aos 14 anos iniciei minha jornada no desenvolvimento por iniciativa própria. Atualmente, aos 17 anos, combino formação técnica sólida com projetos reais e certificações internacionais, buscando contribuir com equipes e soluções que gerem impacto.
+Desenvolvedor em formação com quase 4 anos de experiência prática em programação. Aos 14 anos iniciei minha jornada no desenvolvimento por iniciativa própria. Atualmente, aos 17 anos, combino formação técnica sólida com projetos reais e certificações internacionais, buscando contribuir com equipes e soluções que gerem impacto.
 
 ---
 
