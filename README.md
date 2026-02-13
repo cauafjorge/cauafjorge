@@ -49,7 +49,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=flat&color=grey" alt="profile views"/>
-</p>
