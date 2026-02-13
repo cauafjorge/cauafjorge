@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Caio 👋</h1>
+<h1 align="center">Hi, I'm Cauã 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas | Full Stack Developer in progress
+  Desenvolvimento Backend | Python | Flask | Selenium | PHP | SQL | Machine Learning
 </p>
 
 ---
