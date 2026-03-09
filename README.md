@@ -1,14 +1,5 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ██╗   ██╗ █████╗
-██╔════╝██╔══██╗██║   ██║██╔══██╗
-██║     ███████║██║   ██║███████║
-██║     ██╔══██║██║   ██║██╔══██║
-╚██████╗██║  ██║╚██████╔╝██║  ██║
- ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
 # Cauã Fernandes Jorge
 
 **Backend Developer · Full Stack · Open to Remote Internships (US / EU)**
@@ -85,17 +76,6 @@ Clean Code  ·  SOLID  ·  REST Architecture  ·  Test Coverage  ·  DRY & KISS
 - 🌱 Deepening knowledge in **system design**, data structures, and distributed systems
 - 🎯 Preparing for **international technical interviews** (LeetCode, system design rounds)
 - 📖 Studying **Clean Architecture** and production-grade software patterns
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauafjorge&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauafjorge&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
