@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **17-year-old software developer** from Brazil with nearly 4 years of hands-on programming experience — started at 14 out of pure curiosity, stayed for the craft.
+I'm a **18-year-old software developer** from Brazil with nearly 4 years of hands-on programming experience — started at 14 out of pure curiosity, stayed for the craft.
 
 Currently pursuing a **Technology Degree in Systems Analysis and Development** at FATEC Bauru, I combine formal education with real-world projects and internationally recognized certifications. I write clean, maintainable code and think deeply about system design, scalability, and engineering trade-offs.
 
